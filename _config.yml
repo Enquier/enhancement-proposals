@@ -12,3 +12,5 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
+
+theme: jekyll-theme-cayman
