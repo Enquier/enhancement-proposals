@@ -15,7 +15,7 @@ encouraged to commence on the topic.
 
 | Number | Status | Title | PR |
 |--------|--------|-------|----|
-| 0000   | **Submitted** | New Format for managing OpenMBEE Roadmap Elements | [#01](https://github.com/enquier/enhancement-proposals/pull/1) |
+| 0001   | **Submitted** | New Format for managing OpenMBEE Roadmap Elements | [#02](https://github.com/enquier/enhancement-proposals/pull/2) |
 
 ## How do I submit a OEP?
 
