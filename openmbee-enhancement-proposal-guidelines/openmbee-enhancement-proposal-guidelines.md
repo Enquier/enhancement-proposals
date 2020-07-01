@@ -170,15 +170,14 @@ pre-proposal stage, as well as to determine when a PR becomes a OEP at an indivi
 Below are a few example guidelines to follow when deciding if an idea should include
 a OEP (If yes, it requires a OEP). Under each question is a relevant example proposal.
 
-- Does the proposal/implementation require PRs across multiple orgs?
-  - **Example:** Defining a unique cell identifier
-- Does the proposal/implementation PR impact multiple orgs, or have widespread community impact?
-  - **Example:** Updating nbformat
-- Does the proposal/implementation change an invariant in one or more orgs?
-  - **Example:** Defining a unique cell identifier
-  - **Example:** Deferred kernel startup
+- Does the proposal/implementation require PRs across multiple repositories?
+  - **Example:** Defining a new Id format for use by API
+- Does the proposal/implementation PR impact multiple repositories, or have widespread community impact?
+  - **Example:** Updating the JSON Models emitted by MMS
+- Does the proposal/implementation change an invariant in one or more repositories?
+  - **Example:** TBD
 - Does the proposal/implementation create a new concept that will impact multiple repositories?
-  - **Example:** Sandboxed cell outputs
+  - **Example:** Diagram interchange
 - Does the proposal involve creating a new repository or sub-project?
 
 ## The OEP public archive
@@ -195,5 +194,5 @@ quick way to display them in a reading-friendly format.
 ## Background
 
 For a background of the OEP process, and recent efforts to improve it, see
-[the meta-OEP readme](../00-OEP-process/OEP-process.md).
+[the meta-OEP readme](../00-oep-process/oep-process.md).
 
